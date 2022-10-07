@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "A twitter bot exploring the twitter API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopinarounds/twitter-bot.git"
+  },
+  "author": "Bradley Weaver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loopinarounds/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/loopinarounds/twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
